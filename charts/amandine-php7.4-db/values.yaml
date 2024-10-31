@@ -1,0 +1,11 @@
+NameSpace: koden-clients
+AppName: olivetto-db
+NodePort: 32151
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 5Gi
+MariadbServerId: 2
+MariadbDbName: DB_1uqwTlpWAY
+MariadbDbUser: 1uqwTlpWAY
+MariadbDbPort: 3306
