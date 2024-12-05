@@ -3,3 +3,5 @@ AppName: olivetto-app
 
 HostName: olivetto.fr
 DiskSize: 1Gi
+
+DockerImage: killiankopp/amandine-7.4:241122
